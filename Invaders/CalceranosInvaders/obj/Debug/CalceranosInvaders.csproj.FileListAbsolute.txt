@@ -1,0 +1,16 @@
+C:\Users\nick\Downloads\CalceranosInvaders\CalceranosInvaders\CalceranosInvaders\bin\Debug\CalceranosInvaders.exe
+C:\Users\nick\Downloads\CalceranosInvaders\CalceranosInvaders\CalceranosInvaders\bin\Debug\CalceranosInvaders.pdb
+C:\Users\nick\Downloads\CalceranosInvaders\CalceranosInvaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.csprojAssemblyReference.cache
+C:\Users\nick\Downloads\CalceranosInvaders\CalceranosInvaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.MainForm.resources
+C:\Users\nick\Downloads\CalceranosInvaders\CalceranosInvaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.csproj.GenerateResource.cache
+C:\Users\nick\Downloads\CalceranosInvaders\CalceranosInvaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.csproj.CoreCompileInputs.cache
+C:\Users\nick\Downloads\CalceranosInvaders\CalceranosInvaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.exe
+C:\Users\nick\Downloads\CalceranosInvaders\CalceranosInvaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.pdb
+C:\Users\Alcatraz\Desktop\Invaders\CalceranosInvaders\bin\Debug\CalceranosInvaders.exe
+C:\Users\Alcatraz\Desktop\Invaders\CalceranosInvaders\bin\Debug\CalceranosInvaders.pdb
+C:\Users\Alcatraz\Desktop\Invaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.csprojAssemblyReference.cache
+C:\Users\Alcatraz\Desktop\Invaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.MainForm.resources
+C:\Users\Alcatraz\Desktop\Invaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.csproj.GenerateResource.cache
+C:\Users\Alcatraz\Desktop\Invaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Alcatraz\Desktop\Invaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.exe
+C:\Users\Alcatraz\Desktop\Invaders\CalceranosInvaders\obj\Debug\CalceranosInvaders.pdb
